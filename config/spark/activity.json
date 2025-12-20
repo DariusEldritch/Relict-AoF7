@@ -1,0 +1,15 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "DariusEldritch",
+      "uniqueId": "34af0bb1-6f3b-4128-bcae-d929d3924f33"
+    },
+    "time": 1764643393672,
+    "type": "Heap dump summary",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/pTZvvnYR1T"
+    }
+  }
+]

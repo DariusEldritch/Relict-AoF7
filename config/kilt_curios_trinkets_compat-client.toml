@@ -1,0 +1,3 @@
+#Which mod's GUI should be used?
+#Allowed Values: TRINKETS, CURIOS
+guiMode = "TRINKETS"
