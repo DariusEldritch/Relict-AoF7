@@ -259,7 +259,7 @@
     "energy.enabled_entity": true,
     // config.waila.plugin_wailax.energy.blacklist
     // json5.waila.config.plugin.custom_file
-    // C:\Users\Darius\curseforge\minecraft\Instances\All of Fabric 7 - AOF7\config\waila\extra\energy_blacklist.json5
+    // C:\Users\Darius\curseforge\minecraft\Instances\Relict-AoF7\config\waila\extra\energy_blacklist.json5
     "energy.blacklist": null,
     // config.waila.plugin_wailax.fluid.enabled_block
     // json5.waila.config.plugin.server_required
@@ -275,7 +275,7 @@
     "fluid.display_unit": "MILLIBUCKETS",
     // config.waila.plugin_wailax.fluid.blacklist
     // json5.waila.config.plugin.custom_file
-    // C:\Users\Darius\curseforge\minecraft\Instances\All of Fabric 7 - AOF7\config\waila\extra\fluid_blacklist.json5
+    // C:\Users\Darius\curseforge\minecraft\Instances\Relict-AoF7\config\waila\extra\fluid_blacklist.json5
     "fluid.blacklist": null,
     // config.waila.plugin_wailax.progress.enabled_block
     // json5.waila.config.plugin.server_required
@@ -287,7 +287,7 @@
     "progress.enabled_entity": true,
     // config.waila.plugin_wailax.progress.blacklist
     // json5.waila.config.plugin.custom_file
-    // C:\Users\Darius\curseforge\minecraft\Instances\All of Fabric 7 - AOF7\config\waila\extra\progress_blacklist.json5
+    // C:\Users\Darius\curseforge\minecraft\Instances\Relict-AoF7\config\waila\extra\progress_blacklist.json5
     "progress.blacklist": null,
     // config.waila.plugin_wailax.item.enabled_block
     // json5.waila.config.plugin.server_required
@@ -313,7 +313,7 @@
     "item.sort_by_count": true,
     // config.waila.plugin_wailax.item.blacklist
     // json5.waila.config.plugin.custom_file
-    // C:\Users\Darius\curseforge\minecraft\Instances\All of Fabric 7 - AOF7\config\waila\extra\item_blacklist.json5
+    // C:\Users\Darius\curseforge\minecraft\Instances\Relict-AoF7\config\waila\extra\item_blacklist.json5
     "item.blacklist": null
   }
 }

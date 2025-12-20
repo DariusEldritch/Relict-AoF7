@@ -660,6 +660,17 @@
         "value": 10
       }
     },
+    "ephemera:breakboost": {
+      "enabled": false,
+      "min": {
+        "default": -64,
+        "value": -64
+      },
+      "max": {
+        "default": 64,
+        "value": 64
+      }
+    },
     "minecraft:horse.jump_strength": {
       "enabled": true,
       "min": {
